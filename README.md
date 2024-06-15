@@ -1,3 +1,5 @@
 ### Financial Modeling World Cup 🏆
 
-Study materials and case studies from https://fmworldcup.com
+All of the free study materials and case studies from https://fmworldcup.com
+
+* https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship
