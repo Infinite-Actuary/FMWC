@@ -1,2 +1,3 @@
-# FMWC
-Financial Modeling World Cup 🏆
+### Financial Modeling World Cup 🏆
+
+Study materials and case studies from https://fmworldcup.com
